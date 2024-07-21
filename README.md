@@ -63,7 +63,7 @@ Make sure you have the following installed:
     npm start
     ```
 
-### Usage
+## Usage
 
 1. Open your browser and navigate to http://localhost:3000.
 2. Use the input field to add new tasks.
